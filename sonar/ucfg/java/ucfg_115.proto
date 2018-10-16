@@ -1,0 +1,70 @@
+
+Worg.schemaspy.DbAnalyzer#getTablesWithOneColumn(Ljava/util/Collection;)Ljava/util/List;
+__unknown_file (tables"6*º
+1^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaé é(Ï
+È
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaé é(3
+%5"Korg.schemaspy.DbAnalyzer#sortTablesByName(Ljava/util/List;)Ljava/util/List;*"
+org.schemaspy.DbAnalyzer*
+
+singleColumnTables"h
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaé é(4
+
+%5*Ê
+2^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaâ â(y
+w
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaâ â(
+table"__id*
+""*
+4
+1*†
+3^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaã ã("µ
+≤
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaã ã(-
+%4"'java.util.List#add(Ljava/lang/Object;)Z*
+
+singleColumnTables*	
+
+table*
+2*¶
+4^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaä ä(¨
+©
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaä ä("
+%2"6org.schemaspy.model.Table#getColumns()Ljava/util/List;*	
+
+tableâ
+Ü
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaä ä()
+%3"java.util.List#size()I*
+
+%2*
+2
+3*Ñ
+6^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaá) á(?}{
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaá- á(=
+%0"java.util.ArrayListê
+ç
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaá) á(?
+%1"java.util.ArrayList#<init>()V*
+
+%0á
+Ñ
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaá á(@
+singleColumnTables"__id*
+
+%0*
+2

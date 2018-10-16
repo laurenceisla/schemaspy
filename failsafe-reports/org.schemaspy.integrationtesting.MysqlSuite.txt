@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.schemaspy.integrationtesting.MysqlSuite
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 41.689 s - in org.schemaspy.integrationtesting.MysqlSuite

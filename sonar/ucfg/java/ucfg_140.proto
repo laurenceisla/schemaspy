@@ -1,0 +1,42 @@
+
+^org.schemaspy.SchemaAnalyzer#getDatabaseProduct(Ljava/sql/DatabaseMetaData;)Ljava/lang/String;
+__unknown_file (meta"4*ß
+2b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿ ¿([‡
+„
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿ ¿([
+%3"__concat*
+
+%1*
+
+%2"l
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿ ¿(\
+
+%3*º
+3b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿3 ¿(8ˆ
+…
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿ ¿(8
+%1"__concat*
+
+%0*
+ - À
+½
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿; ¿([
+%2"Gjava.sql.DatabaseMetaData#getDatabaseProductVersion()Ljava/lang/String;*
+
+meta*
+2*¬
+4b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿ ¿(½
+º
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java¿ ¿(0
+%0"Djava.sql.DatabaseMetaData#getDatabaseProductName()Ljava/lang/String;*
+
+meta*
+3

@@ -1,0 +1,90 @@
+
+Xorg.schemaspy.DbAnalyzer#getTablesWithoutIndexes(Ljava/util/Collection;)Ljava/util/List;
+__unknown_file (tables"8*∏
+1^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java◊ ◊(Ë
+Â
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java◊ ◊(/
+%7"Korg.schemaspy.DbAnalyzer#sortTablesByName(Ljava/util/List;)Ljava/util/List;*"
+org.schemaspy.DbAnalyzer*
+
+withoutIndexes"h
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java◊ ◊(0
+
+%7*Ê
+2^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java“ “(y
+w
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java“ “(
+table"__id*
+""*
+6
+1*ú
+3^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java‘ ‘(±
+Æ
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java‘ ‘()
+%6"'java.util.List#add(Ljava/lang/Object;)Z*
+
+withoutIndexes*	
+
+table*
+2*ä
+4^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java”D ”(Iú
+ô
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java”D ”(U
+%5"&org.schemaspy.model.Table#isLogical()Z*	
+
+table*
+2
+3*á
+5^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java”1 ”(6ô
+ñ
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java”1 ”(?
+%4"#org.schemaspy.model.Table#isView()Z*	
+
+table*
+2
+4*ß
+6^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java” ”(´
+®
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java” ”("
+%2"5org.schemaspy.model.Table#getIndexes()Ljava/util/Set;*	
+
+tableã
+à
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java” ”(,
+%3"java.util.Set#isEmpty()Z*
+
+%2*
+2
+5*Ä
+8^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java–% –(;}{
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java–) –(9
+%0"java.util.ArrayListê
+ç
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java–% –(;
+%1"java.util.ArrayList#<init>()V*
+
+%0É
+Ä
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java– –(<
+withoutIndexes"__id*
+
+%0*
+2

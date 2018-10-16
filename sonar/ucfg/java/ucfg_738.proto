@@ -1,0 +1,36 @@
+
+Morg.schemaspy.util.ManifestUtils#getImplementationVersion()Ljava/lang/String;
+__unknown_file ("1*‹
+1d
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/ManifestUtils.java; ;(³
+°
+d
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/ManifestUtils.java;# ;(5
+%0"__id*<*:"
+ org.schemaspy.util.ManifestUtils"
+manifestAttributesÜ
+Ù
+d
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/ManifestUtils.java;# ;(X
+%1"Gjava.util.jar.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*
+
+%0*
+Implementation-VersionÖ
+Ó
+d
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/ManifestUtils.java; ;(Y
+%2"Ejava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional;*"
+java.util.Optional*
+
+%1Á
+¾
+d
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/ManifestUtils.java; ;(g
+%3"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%2*
+IDE"n
+d
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/ManifestUtils.java; ;(h
+
+%3

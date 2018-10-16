@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<database name="htmlit" schema="routinesit" type="MySQL - 5.7.23">
+   <tables>
+      <table catalog="routinesit" name="issue222" numRows="0" remarks="Only to avoid issue 222" type="TABLE">
+         <column autoUpdated="false" digits="0" id="0" name="rid" nullable="false" remarks="" size="10" type="INT"/>
+      </table>
+   </tables>
+</database>

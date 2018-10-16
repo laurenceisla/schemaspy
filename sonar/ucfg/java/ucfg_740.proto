@@ -1,0 +1,85 @@
+
+Zorg.schemaspy.util.Markdown#toHtml(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (markdownTextrootPath"3*Ñ
+1_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java< <("k
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java< <(
+
+text*
+2_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java7 7(#‰
+†
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java7 7(3
+%0"dorg.schemaspy.util.Markdown#addReferenceLink(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*"
+org.schemaspy.util.Markdown*
+
+text*
+
+
+rootPathy
+w
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java7 7(3
+text"__id*
+
+%0
+š
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java8 8(!
+%1"__id*+*)
+org.schemaspy.util.Markdown"
+PARSERÝ
+Ú
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java8 8(-
+%2"_com.vladsch.flexmark.parser.Parser#parse(Ljava/lang/String;)Lcom/vladsch/flexmark/ast/Document;*
+
+%1*
+
+text|
+z
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java8 8(.	
+content"__id*
+
+%2Ÿ
+œ
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java9 9(
+%3"__id*-*+
+org.schemaspy.util.Markdown"
+
+RENDERERá
+Þ
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java9 9(+
+%4"`com.vladsch.flexmark.html.HtmlRenderer#render(Lcom/vladsch/flexmark/ast/Node;)Ljava/lang/String;*
+
+%3*
+	
+content
+š
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java9 9(2
+%5")java.lang.String#trim()Ljava/lang/String;*
+
+%4y
+w
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java9 9(2
+text"__id*
+
+%5*
+1*ó
+3_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java4 4("„
+
+_
+U/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Markdown.java4 4(#
+text"__id*
+
+markdownText*
+2
+1

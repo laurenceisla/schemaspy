@@ -1,0 +1,74 @@
+
+Oorg.schemaspy.util.Inflection#singularize(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (word"7*Ÿ
+1c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.javaÀ À("o
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.javaÀ À(
+
+word*˜
+2c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.javaƒ ƒ("Ñ
+Å
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.javaƒ ƒ("
+
+inflection"__id*
+""*
+4
+1*Ø
+3c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java» »(!’
+“
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java» »(/
+%3"Korg.schemaspy.util.Inflection#replace(Ljava/lang/String;)Ljava/lang/String;*
+
+
+inflection*
+
+word"m
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java» »(0
+
+%3*µ
+4c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java∆ ∆(¬
+ø
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java∆ ∆(&
+%2"8org.schemaspy.util.Inflection#match(Ljava/lang/String;)Z*
+
+
+inflection*
+
+word*
+2
+3*ï
+5c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.javaƒ% ƒ(-•
+¢
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.javaƒ% ƒ(-
+%1"__id*/*-
+org.schemaspy.util.Inflection"
+
+singular*
+2*Ÿ
+6c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¡ ¡("o
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¡ ¡(
+
+word*–
+7c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¿ ¿(›
+⁄
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¿ ¿(*
+%0"@org.schemaspy.util.Inflection#isUncountable(Ljava/lang/String;)Z*!"
+org.schemaspy.util.Inflection*
+
+word*
+5
+6

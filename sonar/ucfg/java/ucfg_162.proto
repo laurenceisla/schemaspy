@@ -1,0 +1,73 @@
+
+√org.schemaspy.WiringConfiguration#databaseService(Lorg/schemaspy/service/TableService;Lorg/schemaspy/service/ViewService;Lorg/schemaspy/service/SqlService;)Lorg/schemaspy/service/DatabaseService;
+__unknown_file (tableServiceviewService
+sqlService"paramAnnotations*æ
+1e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java4# 4(/óî
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java4 4("
+%0"%org.schemaspy.service.DatabaseService∆
+√
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java4 4(I
+%1"òorg.schemaspy.service.DatabaseService#<init>(Lorg/schemaspy/service/TableService;Lorg/schemaspy/service/ViewService;Lorg/schemaspy/service/SqlService;)V*
+
+%0*
+
+tableService*
+
+viewService*
+
+
+sqlService"o
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java4 4(J
+
+%0*˜
+paramAnnotationse
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java3* 3(uø
+º
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java2 2(	
+%2"
+__annotate*/-
++org.springframework.context.annotation.Bean*
+
+tableServiceê
+ç
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java38 3(D
+tableService"__annotation*
+
+%2æ
+ª
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java2 2(	
+%3"
+__annotate*/-
++org.springframework.context.annotation.Bean*
+
+viewServiceè
+å
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java3R 3(]
+viewService"__annotation*
+
+%3Ω
+∫
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java2 2(	
+%4"
+__annotate*/-
++org.springframework.context.annotation.Bean*
+
+
+sqlServiceé
+ã
+e
+[/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/WiringConfiguration.java3j 3(t
+
+sqlService"__annotation*
+
+%4*
+1

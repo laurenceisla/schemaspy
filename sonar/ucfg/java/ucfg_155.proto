@@ -1,0 +1,58 @@
+
+korg.schemaspy.TableOrderer$1TrimComparator#compare(Lorg/schemaspy/model/Table;Lorg/schemaspy/model/Table;)I
+__unknown_file (table1table2"5*Ñ
+1`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java¿ ¿("j
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java¿ ¿(
+""*³
+2`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java¾ ¾(Æ
+Ã
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java¾ ¾(1
+%4"Aorg.schemaspy.model.Table#compareTo(Lorg/schemaspy/model/Table;)I*
+
+
+table1*
+
+
+table2*
+1*¹
+4`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java¼ ¼(£
+ 
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java¼ ¼(/
+%2"*org.schemaspy.model.Table#getMaxParents()I*
+
+
+table1£
+ 
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java¼2 ¼(H
+%3"*org.schemaspy.model.Table#getMaxParents()I*
+
+
+table2*
+2
+1*¾
+5`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaº º(¤
+¡
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaº º(0
+%0"+org.schemaspy.model.Table#getMaxChildren()I*
+
+
+table2¤
+¡
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaº3 º(J
+%1"+org.schemaspy.model.Table#getMaxChildren()I*
+
+
+table1*	
+2
+4
+1

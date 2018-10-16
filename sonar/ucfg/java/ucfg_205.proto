@@ -1,0 +1,38 @@
+
+borg.schemaspy.db.config.PropertiesFinder#fixSpringBootPath(Ljava/lang/String;)Ljava/nio/file/Path;
+__unknown_file (s"1*ê
+1l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.javaf f(˜
+Ù
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.javaf f(<
+%0"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+s*
+
+classes!*	
+classes»
+≈
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.javaf f(=
+%1"5java.net.URI#create(Ljava/lang/String;)Ljava/net/URI;*"
+java.net.URI*
+
+%0Ü
+É
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.javaf f(>
+uri"__id*
+
+%1÷
+”
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.javag g(
+%2";java.nio.file.Paths#get(Ljava/net/URI;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+uri"v
+l
+b/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/db/config/PropertiesFinder.javag g(
+
+%2

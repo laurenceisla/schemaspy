@@ -1,0 +1,44 @@
+
+dorg.schemaspy.TableOrderer#removeSelfReferencingConstraints(Ljava/util/List;Ljava/util/Collection;)Z
+__unknown_file (remainingTablesrecursiveConstraints"2*Ñ
+1`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaÑ Ñ(#"j
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaÑ Ñ($
+""*þ
+2`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaÊ Ê(*Ž
+‹
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaÊ Ê(*
+potentialRecursiveTable"__id*
+""*
+4
+1*º
+3`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaÍ Í($Í
+Ê
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaÍ Í(=
+%1"-java.util.Collection#add(Ljava/lang/Object;)Z*
+
+recursiveConstraints*
+
+recursiveConstraint*
+2*ì
+4`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaË7 Ë(Nï
+ì
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaË7 Ë(p
+%0"eorg.schemaspy.model.Table#removeSelfReferencingConstraint()Lorg/schemaspy/model/ForeignKeyConstraint;*
+
+potentialRecursiveTableŠ
+‡
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaË Ë(q
+recursiveConstraint"__id*
+
+%0*
+2
+3

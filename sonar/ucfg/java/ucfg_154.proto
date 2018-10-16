@@ -1,0 +1,142 @@
+
+Forg.schemaspy.TableOrderer#trimRoots(Ljava/util/List;)Ljava/util/List;
+__unknown_file (tables"8*‘
+1`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaß ß("m
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaß ß(	
+
+roots*µ
+2`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java§ §(£
+†
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java§ §(
+%11"+java.util.Iterator#next()Ljava/lang/Object;*
+
+iter¢
+ü
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java§ §((
+%12"+org.schemaspy.model.Table#unlinkChildren()V*
+
+%11*
+3*Ö
+3`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java° °(ï
+í
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java° °(
+%10"java.util.Iterator#hasNext()Z*
+
+iter*
+2
+1*Û
+4`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaü ü( Â
+‚
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaü ü('
+%8"Morg.schemaspy.TableOrderer#sortTrimmedLevel(Ljava/util/List;)Ljava/util/List;*"
+org.schemaspy.TableOrderer*	
+
+roots{
+y
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaü ü('
+roots"__id*
+
+%8•
+¢
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java† †(
+%9"-java.util.List#iterator()Ljava/util/Iterator;*	
+
+rootsz
+x
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.java† †(
+iter"__id*
+
+%9*
+3*¨
+5`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaô ô(©
+¶
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaô ô(
+%6"'java.util.List#add(Ljava/lang/Object;)Z*	
+
+roots*
+
+rootì
+ê
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaö ö(
+%7"java.util.Iterator#remove()V*
+
+iter*
+7*´
+6`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaó ó(¢
+ü
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaó ó($
+%4"+java.util.Iterator#next()Ljava/lang/Object;*
+
+iterz
+x
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaó ó(%
+root"__id*
+
+%4ö
+ó
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaò ò(
+%5"#org.schemaspy.model.Table#isRoot()Z*
+
+root*
+5
+7*Ñ
+7`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javañ ñ(î
+ë
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javañ ñ(
+%3"java.util.Iterator#hasNext()Z*
+
+iter*
+4
+6*¢
+8`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaì ì(-}
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaì  ì(+
+%0"java.util.ArrayListí
+è
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaì ì(-
+%1"java.util.ArrayList#<init>()V*
+
+%0{
+y
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaì ì(.
+roots"__id*
+
+%0¶
+£
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaï ï(0
+%2"-java.util.List#iterator()Ljava/util/Iterator;*
+
+
+tablesz
+x
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/TableOrderer.javaï ï(1
+iter"__id*
+
+%2*
+7

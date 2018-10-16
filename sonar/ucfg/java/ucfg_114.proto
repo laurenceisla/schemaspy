@@ -1,0 +1,282 @@
+
+eorg.schemaspy.DbAnalyzer#getTablesWithIncrementingColumnNames(Ljava/util/Collection;)Ljava/util/List;
+__unknown_file (tables"22*ö
+12^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaè" è(i…
+‚
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaè" è(i
+%11"__concat*
+
+%10*
+""|
+z
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaè è(i	
+numbers"__id*
+
+%11*
+
+16
+7
+8*Å
+15^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaè" è((
+›
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaè1 è(E
+%9"java.lang.String#charAt(I)C*
+
+
+columnName*
+""·
+´
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaè" è(F
+%10"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+
+%9*
+12*¿
+16^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaç ç(!
+›
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaç* ç(>
+%7"java.lang.String#charAt(I)C*
+
+
+columnName*
+""«
+¨
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaç ç(?
+%8"java.lang.Character#isDigit(C)Z*"
+java.lang.Character*
+
+%7*
+
+15
+7
+8*º
+18^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaä$ ä(*²
+¯
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaä$ ä(4
+%5";org.schemaspy.model.TableColumn#getName()Ljava/lang/String;*
+
+
+column~
+|
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaä ä(5
+
+columnName"__id*
+
+%5{
+y
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaå å(&	
+numbers"__id*
+""•
+’
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaæ æ(0
+%6"java.lang.String#length()I*
+
+
+columnName*
+
+16
+7
+8*˜
+19^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaà& à(+¬
+©
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaà& à(8
+%4"6org.schemaspy.model.Table#getColumns()Ljava/util/List;*	
+
+table*
+3*¾
+1^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaƒ ƒ(í
+ê
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaƒ ƒ(3
+%21"Korg.schemaspy.DbAnalyzer#sortTablesByName(Ljava/util/List;)Ljava/util/List;*"
+org.schemaspy.DbAnalyzer*
+
+denormalizedTables"i
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaƒ ƒ(4
+
+%21*ç
+2^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaİ İ(y
+w
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaİ İ(
+table"__id*
+""*
+20
+1*è
+3^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaà à(#z
+x
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaà à(#
+column"__id*
+""*
+2
+18*È
+4^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÿ ÿ(İ
+Ú
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÿ ÿ(3
+%20"Ijava.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+columnPrefixes*
+
+
+prefix*
+""*
+3*¡
+5^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaü ü(&¶
+³
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaü ü(1
+%19"'java.util.List#add(Ljava/lang/Object;)Z*
+
+denormalizedTables*	
+
+table*
+2*Œ
+6^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaú( ú(,
+›
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaú( ú(D
+%18"java.lang.Math#abs(J)J*"
+java.lang.Math*
+""*
+4
+5*Ø	
+7^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java÷  ÷(*–
+“
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java÷8 ÷(K
+%13"java.lang.String#length()I*
+
+
+columnName“
+
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java÷N ÷(^
+%14"java.lang.String#length()I*
+	
+numbers¼
+¹
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java÷  ÷(_
+%15"0java.lang.String#substring(II)Ljava/lang/String;*
+
+
+columnName*
+""*
+""{
+y
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.java÷ ÷(`
+prefix"__id*
+
+%15º
+·
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaø ø(6
+%16"-java.lang.Long#parseLong(Ljava/lang/String;)J*"
+java.lang.Long*
+	
+numbersÃ
+À
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaù  ù(:
+%17"7java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;*
+
+columnPrefixes*
+
+
+prefix}
+{
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaù ù(;
+
+existing"__id*
+
+%17*
+4
+6*ù
+8^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javañ ñ(!z
+x
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javañ ñ(!	
+numbers"__id*
+1‘
+
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaò! ò(5
+%12"__concat*
+
+
+columnName*
+	
+numbers
+}
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaò ò(5
+
+columnName"__id*
+
+%12*
+7*ş
+20^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaŞ/ Ş(J{y
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaŞ3 Ş(H
+%2"java.util.HashMap
+‹
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaŞ/ Ş(J
+%3"java.util.HashMap#<init>()V*
+
+%2ƒ
+€
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaŞ Ş(K
+columnPrefixes"__id*
+
+%2*
+19*…
+22^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÛ) Û(?}{
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÛ- Û(=
+%0"java.util.ArrayList
+
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÛ) Û(?
+%1"java.util.ArrayList#<init>()V*
+
+%0‡
+„
+^
+R/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/DbAnalyzer.javaÛ Û(@
+denormalizedTables"__id*
+
+%0*
+2

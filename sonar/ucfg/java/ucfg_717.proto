@@ -1,0 +1,80 @@
+
+Sorg.schemaspy.util.Dot#getDisplayableCommand([Ljava/lang/String;)Ljava/lang/String;
+__unknown_file (command"6*˙
+1\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java÷ ÷(Æ
+´
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java÷ ÷(%
+%7"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+displayable"f
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java÷ ÷(&
+
+%7*•
+3\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java‘ ‘(º
+π
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java‘ ‘('
+%6":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+displayable*
+""*
+5*√
+4\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java“ “(
+}
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java“ “()
+%3"
+__arrayGet*
+	
+commandÕ
+ 
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java“ “(*
+%4"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+displayable*
+
+%3Ü
+É
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java” ”(&
+%5"__id**
+	
+command"
+length*
+3
+5*Ú
+5\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java— —(Ü
+É
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java— —(*
+%2"__id**
+	
+command"
+length*
+4
+1*˚
+6\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java–$ –(7}
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java–( –(5
+%0"java.lang.StringBuilderí
+è
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java–$ –(7
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0}
+{
+\
+P/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Dot.java– –(8
+displayable"__id*
+
+%0*
+5

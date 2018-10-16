@@ -1,0 +1,59 @@
+
+{org.schemaspy.cli.CommandLineArgumentParser#computeRequiredFields(Lorg/schemaspy/cli/CommandLineArguments;)Ljava/util/List;
+__unknown_file (	arguments"3*ˆ
+1q
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java€ €(%"
+q
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java€ €(&
+
+computedRequiredFields*Å
+2o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java~ ~("É
+Æ
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java~ ~(.
+%5"'java.util.List#add(Ljava/lang/Object;)Z*
+
+computedRequiredFields*
+user*
+1*Ö	
+3o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java|> |(DÅ
+Â
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java|L |(Z
+%0"__id*C*A-
++org.schemaspy.cli.CommandLineArgumentParser"
+requiredFieldsÖ
+Ó
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java|> |([
+%1"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Arrays*
+
+%0Œ
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java|2 |(=
+%2"java.util.ArrayList¿
+¼
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java|. |(\
+%3"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*
+
+%2*
+
+%1œ
+™
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java| |(]
+computedRequiredFields"__id*
+
+%2Ã
+À
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/cli/CommandLineArgumentParser.java} }('
+%4"8org.schemaspy.cli.CommandLineArguments#isSingleSignOn()Z*
+
+	arguments*
+2
+1

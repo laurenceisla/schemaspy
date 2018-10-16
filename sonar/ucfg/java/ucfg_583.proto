@@ -1,0 +1,28 @@
+
+Lorg.schemaspy.output.xml.dom.XmlTableFormatter#isBinary(Ljava/lang/String;)Z
+__unknown_file (str"1*Ý
+1t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaž ž(Ì
+É
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaž ž(
+%0"__id*E*C0
+.org.schemaspy.output.xml.dom.XmlTableFormatter"
+validXmlCharsä
+á
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaž ž(*
+%1"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%0*
+
+str«
+¨
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaž ž(4
+%2""java.util.regex.Matcher#matches()Z*
+
+%1"~
+t
+h/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/output/xml/dom/XmlTableFormatter.javaž ž(5
+""

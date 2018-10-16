@@ -1,0 +1,65 @@
+
+Norg.schemaspy.util.Writers#newPrintWriter(Ljava/io/File;)Ljava/io/PrintWriter;
+__unknown_file (file"1*
+1^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java! !($û
+õ
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java!7 !(D
+%0")java.io.File#toPath()Ljava/nio/file/Path;*
+
+file°
+û
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java!F !(\
+%1"__id*0*.#
+!java.nio.charset.StandardCharsets"
+UTF_8†
+ù
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java!^ !(v
+%2"__id*/*-"
+ java.nio.file.StandardOpenOption"
+WRITE¢
+ü
+_
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java!x !(ë
+%3"__id*0*."
+ java.nio.file.StandardOpenOption"
+CREATEÆ
+´
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java!ì !(∑
+%4"__id*;*9"
+ java.nio.file.StandardOpenOption"
+TRUNCATE_EXISTING∂
+≥
+_
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java! !(∏
+%5"àjava.nio.file.Files#newBufferedWriter(Ljava/nio/file/Path;Ljava/nio/charset/Charset;[Ljava/nio/file/OpenOption;)Ljava/io/BufferedWriter;*"
+java.nio.file.Files*
+
+%0*
+
+%1*
+
+%2*
+
+%3*
+
+%4}{
+^
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java! !(
+%6"java.io.PrintWriter©
+¶
+_
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java! !(π
+%7"-java.io.PrintWriter#<init>(Ljava/io/Writer;)V*
+
+%6*
+
+%5"i
+_
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Writers.java! !(∫
+
+%6

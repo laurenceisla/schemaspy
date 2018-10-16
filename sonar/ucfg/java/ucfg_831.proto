@@ -1,0 +1,33 @@
+
+Worg.schemaspy.view.HtmlTablePage#sqlCode(Lorg/schemaspy/model/Table;)Ljava/lang/String;
+__unknown_file (table"4*Ý
+1f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlTablePage.java€ €(Y"p
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlTablePage.java€ €(Y
+""*×
+3f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlTablePage.java€3 €(8½
+º
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlTablePage.java€3 €(L
+%1"?org.schemaspy.model.Table#getViewDefinition()Ljava/lang/String;*	
+
+table¤
+¡
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlTablePage.java€3 €(S
+%2")java.lang.String#trim()Ljava/lang/String;*
+
+%1*
+1*³
+4f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlTablePage.java€ €(½
+º
+f
+Z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlTablePage.java€ €((
+%0"?org.schemaspy.model.Table#getViewDefinition()Ljava/lang/String;*	
+
+table*
+3
+1

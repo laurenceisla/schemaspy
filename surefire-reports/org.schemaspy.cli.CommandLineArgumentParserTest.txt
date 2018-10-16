@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.schemaspy.cli.CommandLineArgumentParserTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.373 sec

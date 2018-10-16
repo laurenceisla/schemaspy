@@ -1,0 +1,55 @@
+
+}org.schemaspy.model.TableColumn$ColumnComparator#compare(Lorg/schemaspy/model/TableColumn;Lorg/schemaspy/model/TableColumn;)I
+__unknown_file (column1column2"3*Û
+1e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java– –("o
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java– –(
+""*§
+2e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java• •(º
+·
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java• •(&
+%3";org.schemaspy.model.TableColumn#getName()Ljava/lang/String;*
+	
+column1º
+·
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java•; •(L
+%4";org.schemaspy.model.TableColumn#getName()Ljava/lang/String;*
+	
+column2»
+¸
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java• •(M
+%5"9java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I*
+
+%3*
+
+%4*
+1*Æ
+3e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java“ “(Ä
+Á
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java“ “('
+%0"Eorg.schemaspy.model.TableColumn#getTable()Lorg/schemaspy/model/Table;*
+	
+column1Ä
+Á
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java“2 “(D
+%1"Eorg.schemaspy.model.TableColumn#getTable()Lorg/schemaspy/model/Table;*
+	
+column2Ã
+À
+e
+Y/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableColumn.java“ “(E
+%2"Aorg.schemaspy.model.Table#compareTo(Lorg/schemaspy/model/Table;)I*
+
+%0*
+
+%1*
+2
+1

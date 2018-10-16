@@ -1,0 +1,61 @@
+
+Üorg.schemaspy.logging.LogLevelConditionalThrowableProxyConverter#convert(Lch/qos/logback/classic/spi/ILoggingEvent;)Ljava/lang/String;
+__unknown_file (event"paramAnnotations*Ó
+1Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java- -(œ
+Ã
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java- -()
+%4"__id*7*5#
+!ch.qos.logback.core.CoreConstants"
+EMPTY_STRING"è
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java- -(*
+
+%4*¿
+2Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java, ,(°
+û
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java, ,('
+%3"|ch.qos.logback.classic.pattern.ThrowableProxyConverter#convert(Lch/qos/logback/classic/spi/ILoggingEvent;)Ljava/lang/String;*
+""*	
+
+event"è
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java, ,((
+
+%3*«
+3Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java+ +(Û
+
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java+ +(
+%0"__id*[*YB
+@org.schemaspy.logging.LogLevelConditionalThrowableProxyConverter"
+SCHEMA_SPY_LOGGERº
+π
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java+ +(.
+%1""org.slf4j.Logger#isDebugEnabled()Z*
+
+%0*
+2
+1*å
+paramAnnotationsÑ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java* *(.ø
+º
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java) )(
+%2"
+__annotate*
+java.lang.Override*	
+
+event©
+¶
+Ñ
+z/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/logging/LogLevelConditionalThrowableProxyConverter.java*( *(-
+event"__annotation*
+
+%2*
+3

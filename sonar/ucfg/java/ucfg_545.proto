@@ -1,0 +1,64 @@
+
+Horg.schemaspy.model.xml.TableColumnMeta#evalBoolean(Ljava/lang/String;)Z
+__unknown_file (exp"5"6*ë
+1m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.javaª ª(\"w
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.javaª ª(\
+""*¶
+2m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.javaªF ª(I¼
+¹
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.javaªF ª([
+%4",java.lang.String#equals(Ljava/lang/Object;)Z*
+1*
+
+	returnExp*
+1*»
+4m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.javaª+ ª(0¾
+»
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.javaª+ ª(B
+%3",java.lang.String#equals(Ljava/lang/Object;)Z*
+yes*
+
+	returnExp*
+2
+1*³
+5m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.java© ©(¬
+©
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.java© ©(%
+%0")java.lang.String#trim()Ljava/lang/String;*
+
+exp²
+¯
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.java© ©(3
+%1"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%0
+Š
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.java© ©(4
+	returnExp"__id*
+
+%1¿
+¼
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.javaª ª('
+%2",java.lang.String#equals(Ljava/lang/Object;)Z*
+true*
+
+	returnExp*	
+2
+4
+1*ë
+6m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.java§ §("w
+m
+a/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/xml/TableColumnMeta.java§ §(
+""

@@ -1,0 +1,131 @@
+
+corg.schemaspy.view.HtmlMainIndexPage#getAllAnomaliesAmount(Ljava/util/Collection;Ljava/util/List;)J
+__unknown_file (tablesimpliedConstraints"1*Ç
+1h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javal l(†ƒ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javam< m(E
+%0"java.util.HashSetº
+·
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javam8 m(M
+%1"1java.util.HashSet#<init>(Ljava/util/Collection;)V*
+
+%0*
+
+
+tablesó
+ð
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javam m(N
+%2"Xorg.schemaspy.DbAnalyzer#getTablesWithoutIndexes(Ljava/util/Collection;)Ljava/util/List;*"
+org.schemaspy.DbAnalyzer*
+
+%0“
+
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javam m(U
+%3"java.util.List#size()I*
+
+%2Ã
+À
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javan n(0
+%4"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+impliedConstraintsÜ
+Ù
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javan n(Y
+%5"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
+
+%4*
+""
+š
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javan n(a
+%6" java.util.stream.Stream#count()J*
+
+%5ö
+ó
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javao o(>
+%7"Worg.schemaspy.DbAnalyzer#getTablesWithOneColumn(Ljava/util/Collection;)Ljava/util/List;*"
+org.schemaspy.DbAnalyzer*
+
+
+tables³
+°
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javao o(G
+%8"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+%7Ü
+Ù
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javao o(`
+%9"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
+
+%8*
+""ž
+›
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javao o(h
+%10" java.util.stream.Stream#count()J*
+
+%9…
+‚
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javap p(L
+%11"eorg.schemaspy.DbAnalyzer#getTablesWithIncrementingColumnNames(Ljava/util/Collection;)Ljava/util/List;*"
+org.schemaspy.DbAnalyzer*
+
+
+tablesµ
+²
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javap p(U
+%12"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+%11Þ
+Û
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javap p(n
+%13"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
+
+%12*
+""Ÿ
+œ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javap p(v
+%14" java.util.stream.Stream#count()J*
+
+%13‡„
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javaq@ q(I
+%15"java.util.HashSet¼
+¹
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javaq< q(Q
+%16"1java.util.HashSet#<init>(Ljava/util/Collection;)V*
+
+%15*
+
+
+tablesù
+ö
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javaq q(R
+%17"\org.schemaspy.DbAnalyzer#getDefaultNullStringColumns(Ljava/util/Collection;)Ljava/util/List;*"
+org.schemaspy.DbAnalyzer*
+
+%15•
+’
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javaq q(Y
+%18"java.util.List#size()I*
+
+%17"r
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/HtmlMainIndexPage.javas s(
+""

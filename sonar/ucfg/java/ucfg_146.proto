@@ -1,0 +1,33 @@
+
+Worg.schemaspy.SchemaAnalyzer#getConnection(Lorg/schemaspy/Config;)Ljava/sql/Connection;
+__unknown_file (config"1*Ú
+1b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java‡& ‡(:ãà
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java‡* ‡(8
+%0"org.schemaspy.DbDriverLoaderù
+ö
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java‡& ‡(:
+%1"&org.schemaspy.DbDriverLoader#<init>()V*
+
+%0Ö
+Ç
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java‡ ‡(;
+driverLoader"__id*
+
+%0‰
+·
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java· ·(1
+%2"Worg.schemaspy.DbDriverLoader#getConnection(Lorg/schemaspy/Config;)Ljava/sql/Connection;*
+
+driverLoader*
+
+
+config"l
+b
+V/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/SchemaAnalyzer.java· ·(2
+
+%2
