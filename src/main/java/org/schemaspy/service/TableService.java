@@ -174,11 +174,14 @@ public class TableService {
         column.setType(rs.getInt("DATA_TYPE"));
 
         column.setDecimalDigits(rs.getInt("DECIMAL_DIGITS"));
-        Number bufLength = (Number)rs.getObject("BUFFER_LENGTH");
-        if (bufLength != null && bufLength.shortValue() > 0)
-            column.setLength(bufLength.shortValue());
-        else
-            column.setLength(rs.getInt("COLUMN_SIZE"));
+        // Number bufLength = (Number)rs.getObject("BUFFER_LENGTH");
+        // if (bufLength != null && bufLength.shortValue() > 0)
+        //     column.setLength(bufLength.shortValue());
+        // else
+        //     column.setLength(rs.getInt("COLUMN_SIZE"));
+
+        // Get precision
+        column.setLength(rs.getInt("COLUMN_SIZE"));
 
         StringBuilder buf = new StringBuilder();
         buf.append(column.getLength());
